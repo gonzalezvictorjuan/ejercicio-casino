@@ -1,0 +1,1 @@
+import { Equipo } from "./equipo";
