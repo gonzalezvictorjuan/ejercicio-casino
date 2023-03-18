@@ -1,0 +1,32 @@
+{
+  "name": "equipo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^8.8.2",
+    "arg": "^4.1.3",
+    "diff": "^4.0.2",
+    "acorn-walk": "^8.2.0",
+    "create-require": "^1.1.1",
+    "typescript": "^5.0.2",
+    "make-error": "^1.3.6",
+    "ts-node": "^10.9.1",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinadesposito/Equipo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinadesposito/Equipo/issues"
+  },
+  "homepage": "https://github.com/karinadesposito/Equipo#readme"
+}
