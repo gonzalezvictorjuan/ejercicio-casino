@@ -1,4 +1,5 @@
-import {  Motor} from "./Motor"
+import { Motor} from "./Motor"
+
 enum Eficiencia{
     A,
     B, 
@@ -18,11 +19,11 @@ export class M_Electrico extends Motor{
    
     constructor (id:string, description: string, fechaFabricacion: number, 
         fechaInstalacion: number, potenciaHp: number, eficiencia: Eficiencia, 
-        fabricante: string, cilindros: number, tipoCombustible: Combustible, voltaje: string, 
+        fabricante: string, voltaje: string, 
         consumoKwH: number, isBajoConsumo: true){
 
         super(id, description, fechaFabricacion, fechaInstalacion, potenciaHp, 
-            eficiencia, Combustible, fabricante )
+            eficiencia, fabricante )
 
            this.voltaje = voltaje,
            this.consumoKwH = consumoKwH;  

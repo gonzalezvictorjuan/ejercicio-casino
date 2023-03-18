@@ -1,7 +1,7 @@
 import {Equipo  } from "./Equipo";
 
 enum Eficiencia{
-    A,
+    A=0,
     B, 
     C, 
     D, 
@@ -23,9 +23,7 @@ enum Eficiencia{
            this.fabricante = fabricante     
           }}
 
-          const Ivetec = new Motor( "M1408", "motor japones", 2022, 2022, 140, 5, "Honda")
           
-          console.log(Ivetec);
 
          
           

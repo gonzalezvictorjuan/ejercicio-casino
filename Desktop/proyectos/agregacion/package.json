@@ -1,0 +1,19 @@
+{
+  "name": "agregacion",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinadesposito/agregacion-ejercicio.git"
+  },
+  "author": "Karina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinadesposito/agregacion-ejercicio/issues"
+  },
+  "homepage": "https://github.com/karinadesposito/agregacion-ejercicio#readme"
+}
